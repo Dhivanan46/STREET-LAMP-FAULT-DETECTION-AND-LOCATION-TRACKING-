@@ -110,7 +110,7 @@ void sendDataToBlink(float latitude, float longitude) {
     client.println("Content-Length: " + String(data.length()));
     client.println();
     client.println(data);
-    client.stop(); // Close the connection
+    client.stop(); 
     Serial.println("Location sent to Blink");
   } else {
     Serial.println("Failed to connect to Blink"); 
