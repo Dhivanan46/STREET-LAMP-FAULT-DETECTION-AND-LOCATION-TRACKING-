@@ -113,6 +113,6 @@ void sendDataToBlink(float latitude, float longitude) {
     client.stop(); // Close the connection
     Serial.println("Location sent to Blink");
   } else {
-    Serial.println("Failed to connect to Blink"); // Error message if connection fails
+    Serial.println("Failed to connect to Blink"); 
   }
 }
