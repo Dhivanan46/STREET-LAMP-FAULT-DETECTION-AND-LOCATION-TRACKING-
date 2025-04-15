@@ -22,3 +22,17 @@ advantages, including improved maintenance efficiency, reduced downtime, and
 enhanced safety in urban areas. By leveraging machine learning and IoT 
 technologies, this system represents a significant step towards creating smart and 
 sustainable urban environments.  
+
+
+#Block Diagram
+![image](https://github.com/user-attachments/assets/237c2279-e735-4817-bd4b-2a5d0346f624)
+
+#Components
+* Esp32
+* 5v Relay
+* Neo GPS 6m
+* LDR Sensor
+* Rectifier
+* 230v AC - 12V AC Transformer
+* Voltage Regulator
+  
