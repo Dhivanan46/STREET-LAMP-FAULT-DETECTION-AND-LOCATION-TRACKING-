@@ -25,6 +25,8 @@ sustainable urban environments.
 
 
 #Block Diagram
+
+
 ![image](https://github.com/user-attachments/assets/237c2279-e735-4817-bd4b-2a5d0346f624)
 
 #Components
